@@ -3,7 +3,7 @@ $name = $_POST['name'];
 $email = $_POST['email'];
 $message = $_POST['message'];
 
-$to = 'kh.khaliduiux@gmail.com';
+$to = 'khaliduxui@gmail.com';
 $subject = 'New message from website contact form';
 $body = "Name: $name\nEmail: $email\nMessage: $message";
 
